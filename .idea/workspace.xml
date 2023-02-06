@@ -1,9 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da4fb40c-b67b-438d-ba44-f1a580ea6af7" name="Changes" comment="Readme file for 1st book of 2023 in python book collection.&#10;Added Book Details, TOC.">
+    <list default="true" id="da4fb40c-b67b-438d-ba44-f1a580ea6af7" name="Changes" comment="Made Changes in TOC for 2nd Ed book">
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/arc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/arcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/basic-animation-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/basic-animation-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/basic-animation-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/button-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/button-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/changing-color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/choosing-colors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/color-rectangle-with-chooser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/color-rectangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/display-image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/displaying-text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/moving-triangle-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/moving-triangle-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/named-parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/polygon-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/polygon-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/random-rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/random-rectangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/rectangle-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/rectangle-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/rectangle-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch10/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch2/magic_coins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/escaping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/fred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/fstrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/letter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/list_arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/silly_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/sports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/wizard_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch4/square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch4/two_lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/combining-conditions-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/combining-conditions-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-elif-statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-else-statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-statement-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-statement-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-statement-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-statement-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/if-statement-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/none.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/strings-numbers-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/strings-numbers-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/strings-numbers-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch5/strings-numbers-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/hello-loop-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/hello-loop-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/huge-hairy-pants-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/huge-hairy-pants-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/loop-with-conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/magic-coins-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/wizard-list-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch6/wizard-list-no-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/savings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/silly-age-joke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/spaceship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/test-func-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/test-func-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch7/time-module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/animal-class-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/animal-class-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/animal-class-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/animal-class-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/animal-class-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/turtle-objects-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch8/turtle-objects-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/dark-green-circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/eight-point-star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/filled-square-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/gold-circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/green-circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/multi-point-star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/nine-point-star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/spiral-star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/square-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/square-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/square-function-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/square-function-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch9/star-function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python/2AS-2PP/2023/1/README.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +122,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Onscreens Infotech\PycharmProjects\books\Python\2AS-2PP\2023\1\PART 1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Onscreens Infotech\PycharmProjects\books\TESTS" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="letter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Onscreens Infotech\AppData\Local\Programs\Python\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1/ch3/letter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.letter" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675592427285</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Made Changes in TOC for 2nd Ed book">
+      <created>1675593504330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675593504330</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,11 +210,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Commit test 1" />
     <MESSAGE value="Readme file for 1st book of 2023 in python book collection.&#10;Added Book Details, TOC." />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme file for 1st book of 2023 in python book collection.&#10;Added Book Details, TOC." />
+    <MESSAGE value="Made Changes in TOC for 2nd Ed book" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made Changes in TOC for 2nd Ed book" />
   </component>
 </project>
