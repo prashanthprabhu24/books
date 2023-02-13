@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da4fb40c-b67b-438d-ba44-f1a580ea6af7" name="Changes" comment="Added Codes to Chapters in PART 1">
+    <list default="true" id="da4fb40c-b67b-438d-ba44-f1a580ea6af7" name="Changes" comment="Added Codes to Chapters in PART 2 and PART 3. (Games)">
+      <change afterPath="$PROJECT_DIR$/Python/Work/2023/3/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +37,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python/2AS-2PP/2023/1/PART 1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Onscreens Infotech\PycharmProjects\books\Python\2AS-2PP\2023\1\PART 3" />
+      <recent name="C:\Users\Onscreens Infotech\PycharmProjects\books\Python\2AS-2PP\2023\1\PART 2" />
       <recent name="C:\Users\Onscreens Infotech\PycharmProjects\books\Python\2AS-2PP\2023\1\PART 1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675682598583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Codes to Chapters in PART 2 and PART 3. (Games)">
+      <created>1675757904457</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675757904457</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +149,7 @@
     <MESSAGE value="Readme file for 1st book of 2023 in python book collection.&#10;Added Book Details, TOC." />
     <MESSAGE value="Made Changes in TOC for 2nd Ed book" />
     <MESSAGE value="Added Codes to Chapters in PART 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Codes to Chapters in PART 1" />
+    <MESSAGE value="Added Codes to Chapters in PART 2 and PART 3. (Games)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Codes to Chapters in PART 2 and PART 3. (Games)" />
   </component>
 </project>
